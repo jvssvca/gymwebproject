@@ -102,16 +102,16 @@ button{
 }
 
 .card1{
-	background-image: url(img/image1.JPG);
+	background-image: url(desktop/img/image1.JPG);
 }
 .card2{
-	background-image: url(img/image2.JPG);
+	background-image: url(desktop/img/image2.JPG);
 }
 .card3{
-	background-image: url(img/image3.JPG);
+	background-image: url(desktop/img/image3.JPG);
 }
 .card4{
-	background-image: url(img/image4.JPG);
+	background-image: url(desktop/img/image4.JPG);
 }
 
 .card:hover{
