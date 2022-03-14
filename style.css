@@ -169,7 +169,7 @@ body {
 .price-column.popular {
   position: relative;
   background-color: var(--accent-color);
-  box-shadow: 0 7px 30px rgba(52, 13, 135, 0.3);
+  box-shadow: 0 7px 30px rgba(209, 169, 9, 1);
   color: white;
   margin-top: -1.5rem;
   padding-top: 3.5rem;
