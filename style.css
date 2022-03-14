@@ -126,6 +126,27 @@ h5{
 }
 
 /*about*/
+.row2{
+	display: flex;
+	height: 88%;
+	align-items: center;
+}
+
+.col2{
+	flex-basis: 50%;
+}
+
+h2{
+	color: #967800;
+	font-size: 100px;
+}
+
+p2{
+	color: #fff;
+	font-size: 14px;
+	line-height: 20px;
+}
+
 /* membership */
 /* contact us */
 /* log in */
