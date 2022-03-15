@@ -285,6 +285,10 @@ body .index {
 }
 /* contact us */
 /* log in */
+h2{
+	color: #967800;
+	font-size: 40px;
+}
 body .login {
     --color-primary: #D1A909;
     --color-primary-dark: #967800;
