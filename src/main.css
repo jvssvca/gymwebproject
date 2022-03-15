@@ -51,6 +51,16 @@ nav ul li a{
 	font-size; 13px;
 }
 
+.row{
+	display: flex;
+	height: 88%;
+	align-items: center;
+}
+
+.col{
+	flex-basis: 50%;
+}
+
 body {
     --color-primary: #d8bd4d;
     --color-primary-dark: #967800;
