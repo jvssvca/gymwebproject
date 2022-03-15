@@ -83,7 +83,6 @@ body {
 .form__input,
 .form__button {
     font: 500 1rem 'Quicksand', sans-serif;
-	flex-basis: 50%;
 }
 
 .form--hidden {
