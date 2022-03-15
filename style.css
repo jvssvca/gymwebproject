@@ -137,7 +137,7 @@ h5{
   --body-font-family: 'Lato', sans-serif;
 }
 
-body {
+body .index {
   margin: 0;
   background-color: #FFFFFF;
   min-width: 100vw;
@@ -285,7 +285,7 @@ body {
 }
 /* contact us */
 /* log in */
-body2 {
+body .login {
     --color-primary: #D1A909;
     --color-primary-dark: #967800;
     --color-secondary: #252c6a;
