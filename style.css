@@ -133,7 +133,8 @@ h5{
 
 .slider figure {
 	position: relative;
-	width: 600px;
+	width: 400px;
+	height: 500px;
 	margin: 0;
 	left: 0;
 	animation: 20s slider infinite;
