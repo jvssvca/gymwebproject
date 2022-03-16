@@ -141,7 +141,7 @@ h5{
 
 #slider figure img {
 	float: left;
-	width: 20%
+	width: 100%
 }
 
 @keyframes slider {
