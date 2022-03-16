@@ -133,7 +133,7 @@ h5{
 
 #slider figure {
 	position: relative;
-	width: 100%;
+	width: 500px;
 	margin: 0;
 	left: 0;
 	animation: 20s slider infinite;
@@ -152,25 +152,25 @@ h5{
 		left: 0;
 	}
 	25% {
-		left: -20%;
+		left: -100px;
 	}
 	45% {
-		left: -20%;
+		left: -100px;
 	}
 	50% {
-		left: -40%;
+		left: -200px;
 	}
 	70% {
-		left: -40%;
+		left: -200px;
 	}
 	75% {
-		left: -60%;
+		left: -300px;
 	}
 	95% {
-		left: -60%;
+		left: -300px;
 	}
 	100% {
-		left: -80%;
+		left: -400px;
 	}
 }
 
