@@ -127,11 +127,11 @@ h5{
 }
 
 /*about*/
-.slider {
+#slider {
 	overflow: hidden;
 }
 
-.slider figure {
+#slider figure {
 	position: relative;
 	width: 400px;
 	height: 500px;
@@ -140,7 +140,7 @@ h5{
 	animation: 20s slider infinite;
 }
 
-.slider figure img {
+#slider figure img {
 	float: left;
 	width: 20%
 }
