@@ -333,3 +333,12 @@ body .index {
 }
 
 /* contact us */
+.contactform{
+	align-items: center;
+	justify-content: center;
+}
+
+form{
+	width: 90%;
+	max-width: 600px;
+}
