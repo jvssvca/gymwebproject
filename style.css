@@ -368,15 +368,13 @@ label{
 	color: #fff;
 	cursor: text;
 }
-	
-.submit{
-	padding: 10px 0;
-	color: #fff;
-	outline: none;
-	background: transparent;
-	border: 1px solid #fff;
-	width: 100%;
-	cursor: pointer;
+
+input:focus~label,
+input:valid~label,
+textarea:focus~label, 
+textsrea:valid~label{
+	top: -35px;
+	font-size: 14px;
 }
 	
 
